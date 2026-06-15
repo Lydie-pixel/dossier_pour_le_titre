@@ -6,7 +6,7 @@ Ce dépôt contient les documents réalisés dans le cadre du passage du Titre P
 
 * Dossier Professionnel
 * Dossier de Présentation du Projet
-* Support de soutenance (à venir)
+* Support de soutenance
 
 ## Projet principal
 
